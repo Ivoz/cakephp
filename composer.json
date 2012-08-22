@@ -1,10 +1,11 @@
 {
-    "name": "cakephp/cakephp",
+    "name": "caketest/cakephp",
     "description": "the cakephp framework",
     "type": "library",
     "keywords": ["framework"],
     "homepage": "http://cakephp.org",
     "license": "mit",
+    "version": "2.2.1"
     "authors": [
         {
             "name": "CakePHP Community",
@@ -18,7 +19,7 @@
         "source": "https://github.com/cakephp/cakephp/"
     },
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.2"
     },
     "autoload": {
         "psr-0": {
