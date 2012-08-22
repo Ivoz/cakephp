@@ -1,6 +1,6 @@
 {
     "name": "cakephp/cakephp",
-    "description": "the cakephp framework",
+    "description": "the cakePHP framework",
     "type": "library",
     "keywords": ["framework"],
     "homepage": "http://cakephp.org",
