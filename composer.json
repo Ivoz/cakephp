@@ -5,7 +5,6 @@
     "keywords": ["framework"],
     "homepage": "http://cakephp.org",
     "license": "mit",
-    "version": "2.2.1"
     "authors": [
         {
             "name": "CakePHP Community",
