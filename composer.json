@@ -1,5 +1,5 @@
 {
-    "name": "caketest/cakephp",
+    "name": "cakephp/cakephp",
     "description": "the cakephp framework",
     "type": "library",
     "keywords": ["framework"],
